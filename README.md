@@ -12,20 +12,6 @@ Esta é uma calculadora simples para ajudar a determinar qual é a melhor opçã
 
 ## Resultado final
 
-
 <div align= 'center'>
-  <img src="Calculadora.png" alt="Minha Imagem">
+  <img src="./src/assets/logo.png" alt="Minha Imagem">
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
