@@ -6,7 +6,8 @@ Esta é uma calculadora simples para ajudar a determinar qual é a melhor opçã
 
 ## Tecnologias Utilizadas
 
-- React
+- ReactJS
+- TypeScript
 - Vite
 - CSS
 
