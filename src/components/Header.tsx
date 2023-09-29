@@ -1,5 +1,6 @@
-import "./App.css";
-import logoImg from "./assets/logo.png";
+import "../App.css";
+import "../index.css";
+import logoImg from "../assets/logo.png";
 function Header() {
   return (
     <div>
