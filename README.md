@@ -13,5 +13,5 @@ Esta é uma calculadora simples para ajudar a determinar qual é a melhor opçã
 ## Resultado final
 
 <div align= 'center'>
-  <img src="./src/assets/calculadora.png" alt="Minha Imagem">
+  <img src="./src/assets/Calculadora.png" alt="Minha Imagem">
 </div>
