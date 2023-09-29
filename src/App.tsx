@@ -1,5 +1,3 @@
-// import { useState } from "react";
-
 import Logica from "./components/Logica";
 import Header from "./components/Header";
 
